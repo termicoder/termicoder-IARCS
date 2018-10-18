@@ -1,2 +1,3 @@
 # termicoder-iarcs
-[WIP] IARCS plugin for termicoder
+**THIS IS A WORK IN PROGRESS AND NOT READY FOR USE YET**
+IARCS plugin for termicoder
